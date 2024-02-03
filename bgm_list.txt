@@ -1,0 +1,79 @@
+sounds/bgm/02 - dreaming - loop
+sounds/bgm/02 - today is for nothing
+sounds/bgm/1 - alone
+sounds/bgm/1 - beyond the waves
+sounds/bgm/1 - cryptic
+sounds/bgm/10- dark fantasy studio- until dawn
+sounds/bgm/11- dark fantasy studio- 13 sins
+sounds/bgm/2 - into the deep
+sounds/bgm/2 - within
+sounds/bgm/3_dark fantasy studio-you are a giant
+sounds/bgm/4 - dusk
+sounds/bgm/4 - sea wind
+sounds/bgm/4 - through the mist
+sounds/bgm/4- dark fantasy studio- demon at the door
+sounds/bgm/all hallows' eve (1)
+sounds/bgm/aspire
+sounds/bgm/awake_in_death_edit2
+sounds/bgm/beautiful moments
+sounds/bgm/danger (short version)
+sounds/bgm/dark fantasy scene
+sounds/bgm/dear lorenne
+sounds/bgm/dreams of glory
+sounds/bgm/dungeon_-_maximum_security
+sounds/bgm/dungeon_-_psych_ward_alt
+sounds/bgm/dungeon_-_sewer_crawler_remake
+sounds/bgm/dungeon_-_spooky_subway
+sounds/bgm/dungeon_-_wrong_way_street
+sounds/bgm/ember
+sounds/bgm/endstory/13-dark fantasy studio-transfiguration
+sounds/bgm/endstory/15- dark fantasy studio- after dark
+sounds/bgm/endstory/4- dark fantasy studio- demon at the door
+sounds/bgm/endstory/6- dark fantasy studio- once upon a time
+sounds/bgm/endstory/9- dark fantasy studio- trust me
+sounds/bgm/endstory/christopher_baklid_-_intricate
+sounds/bgm/endstory/christopher_baklid_-_recollected
+sounds/bgm/endstory/city of light_piano
+sounds/bgm/endstory/dark creepy hybrid underscore
+sounds/bgm/endstory/deep horror underscore
+sounds/bgm/endstory/gloomy cathedral
+sounds/bgm/endstory/gothic mood
+sounds/bgm/endstory/one way
+sounds/bgm/eternal
+sounds/bgm/inspiration(piano and strings version)
+sounds/bgm/let's unite and make a change
+sounds/bgm/lucid dream (8)
+sounds/bgm/maya
+sounds/bgm/morning_dreams
+sounds/bgm/my inspiration
+sounds/bgm/my inspiration edit
+sounds/bgm/ominous (long version)
+sounds/bgm/op-theme ogg
+sounds/bgm/ricardo's revenge (8)
+sounds/bgm/romantic
+sounds/bgm/romantic memories
+sounds/bgm/sentimental moment
+sounds/bgm/smokey lounge jazz combo
+sounds/bgm/start successfully
+sounds/bgm/story 04_renew_edit
+sounds/bgm/story-01_ogg
+sounds/bgm/story-02_ogg
+sounds/bgm/story-03-ending
+sounds/bgm/story-03-ogg
+sounds/bgm/story-03_renew
+sounds/bgm/story-04_ogg
+sounds/bgm/storyscene/9- dark fantasy studio- trust me
+sounds/bgm/tenebris aeterna
+sounds/bgm/theme_-_good_memories
+sounds/bgm/tilarids -  never frozen bottom flows
+sounds/bgm/tilarids - frozen moon
+sounds/bgm/tilarids - strange dream
+sounds/bgm/town_-_alone_in_a_crowd
+sounds/bgm/town_-_urban_knights
+sounds/bgm/town_-_vip_lounge
+sounds/bgm/unfolding
+sounds/bgm/vast landscape
+sounds/bgm/wake up
+sounds/bgm/we must stay together
+sounds/bgm/when_it_rains
+sounds/op-theme
